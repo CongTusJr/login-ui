@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@types/tailwindcss": "^3.1.0",
+    "expo": "^49.0.3",
+    "expo-status-bar": "~1.6.0",
+    "nativewind": "^2.0.11",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.72.6",
+    "react-native-reanimated": "~3.3.0",
+    "react-native-web": "~0.19.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "tailwindcss": "^3.3.5"
+  },
+  "name": "login-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "description": "<p>   <!-- iOS -->   <img alt=\"Supports Expo iOS\" longdesc=\"Supports Expo iOS\" src=\"https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff\" />   <!-- Android -->   <img alt=\"Supports Expo Android\" longdesc=\"Supports Expo Android\" src=\"https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff\" />   <!-- Web --> </p>",
+  "main": "App.js",
+  "author": "",
+  "license": "ISC"
+}
